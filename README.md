@@ -60,12 +60,12 @@ Traditional APIs require manual setup (API keys, subscriptions, billing). AI age
 
 **Facilitator Endpoint:**
 ```bash
-https://dfc5-105-114-16-6.ngrok-free.app/premium-data
+https:// will be live soon .ngrok-free.app/premium-data
 ```
 
 **Try it yourself:**
 ```bash
-curl -v https://dfc5-105-114-16-6.ngrok-free.app/premium-data
+curl -v https:// will be live soon .ngrok-free.app/premium-data 
 ```
 
 **Expected Response:**
@@ -409,22 +409,6 @@ X-Payment-Address: [SOLANA_WALLET]
 | **Token** | USDC | Stablecoin payments |
 | **Tunnel** | ngrok | Public endpoint exposure |
 | **Language** | Python 3.12 | Implementation |
-
-### Project Structure
-
-```
-x402-bounty/
-├── server.py                    # Main FastAPI application
-├── test_server.py               # Automated test suite
-├── requirements.txt             # Python dependencies
-├── .env                        # Environment configuration
-├── README.md                   # This file
-├── DEPLOYMENT_CHECKLIST.md     # Deployment guide
-├── BOUNTY_SUBMISSION.md        # Technical documentation
-└── TWITTER_THREAD.md           # X thread template
-```
-
----
 
 ## 🧪 Testing
 
