@@ -56,6 +56,22 @@ Traditional APIs require manual setup (API keys, subscriptions, billing). AI age
 
 ---
 
+## Automated Setup
+
+**setup.sh (Automated Setup)**
+*What it does:*
+
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+Automatically:
+✅ Checks Python/pip
+✅ Creates virtual environment
+✅ Installs dependencies
+✅ Prints next steps
+
 ## 🌐 Live Demo
 
 **Facilitator Endpoint:**
