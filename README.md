@@ -66,11 +66,12 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-Automatically:
-✅ Checks Python/pip
-✅ Creates virtual environment
-✅ Installs dependencies
-✅ Prints next steps
+**Automatically:**
+
+- ✅ Checks Python/pip
+- ✅ Creates virtual environment
+- ✅ Installs dependencies
+- ✅ Prints next steps
 
 ## 🌐 Live Demo
 
